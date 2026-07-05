@@ -8,7 +8,7 @@ Built using **Python, Scikit-learn, and Streamlit**.
 
 ## 🚀 Live Demo
 
-🔗 https://telecom-customer-churn-prediction-ashi.streamlit.app/
+🔗 https://ml-telecom-customer-churn-prediction-ashi.streamlit.app/
 
 ---
 
