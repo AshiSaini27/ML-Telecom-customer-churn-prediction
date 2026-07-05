@@ -115,19 +115,19 @@ Telecom-Customer-Churn-Prediction/
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
 ## Prediction Result
 
-![Prediction](images/prediction.png)
+![Prediction](prediction.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance1.png)
 
 ---
 
@@ -203,3 +203,4 @@ streamlit run app.py
 # 📊 Dataset
 
 IBM Tel
+
