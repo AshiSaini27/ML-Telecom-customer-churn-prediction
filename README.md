@@ -115,19 +115,19 @@ Telecom-Customer-Churn-Prediction/
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ---
 
 ## Prediction Result
 
-![Prediction](prediction.png)
+![Prediction](images/prediction.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](feature_importance1.png)
+![Feature Importance](images/feature_importance1.png)
 
 ---
 
