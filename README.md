@@ -204,3 +204,11 @@ streamlit run app.py
 
 IBM Tel
 
+# 👨‍💻 Developer
+
+**Ashi Saini**
+
+⭐ If you like this project, don't forget to **Star** this repository!
+
+Made with ❤️ by **Ashi Saini**
+
